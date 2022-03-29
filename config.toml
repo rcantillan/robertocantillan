@@ -1,7 +1,7 @@
 baseURL = "https://robertocantillan.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo"
+title = "Roberto Cantillan"
 author = "Roberto Cantillan Carrasco"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -88,31 +88,31 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://github.com/rcantillan"
+ # [[params.social]]
+ #     icon      = "facebook-square" # icon name without the 'fa-'
+ #     icon_pack = "fab"
+ #     url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+ # [[params.social]]
+ #     icon      = "instagram" # icon name without the 'fa-'
+ #     icon_pack = "fab"
+ #     url       = "https://www.instagram.com/explore/tags/apero/"
+ # [[params.social]]
+ #     icon      = "twitter" # icon name without the 'fa-'
+ #     icon_pack = "fab"
+ #     url       = "https://twitter.com/hashtag/apéro"
+ # [[params.social]]
+ #     icon      = "impactstory" # icon name without the 'fa-'
+ #     icon_pack = "ai"
+ #     url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+ # [[params.social]]
+ #     icon      = "rss" # icon name without the 'fa-'
+ #     icon_pack = "fas"
+ #     url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
