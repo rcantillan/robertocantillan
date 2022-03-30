@@ -8,7 +8,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Sociólogo, estudiante de doctorado @ Pontificia Universidad Católica de Chile (PUC). 
+subtitle: Sociólogo, estudiante de doctorado @ Pontificia Universidad Católica de Chile (pUC). 
 text_align_left: false
 title: Roberto Cantillan
 type: home
