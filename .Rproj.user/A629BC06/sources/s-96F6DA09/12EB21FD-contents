@@ -1,4 +1,4 @@
-credentials::set_github_pat("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")
+credentials::set_github_pat("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")
 library(blogdown)
 new_site(theme = "hugo-apero/hugo-apero", 
          format = "toml",

@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Gracias por visitar mi sitio persona. Este es un espacio dedicado a la compilación de mi trabajo académico y profesional 
+description: Gracias por visitar mi sitio personal. Este es un espacio dedicado a la compilación de mi trabajo académico y profesional 
 image_left: true
 images:
 - img/revoir.jpg
