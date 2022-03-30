@@ -3,9 +3,9 @@
     "path": "~/Documentos/robertocantillan/script.R",
     "project_path": "script.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1323093738",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1648594417370.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648604661,
+    "lastKnownWriteTime": 1648604844,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648604793093,
+    "last_content_update": 1648604844112,
     "read_only": false,
     "read_only_alternatives": []
 }
