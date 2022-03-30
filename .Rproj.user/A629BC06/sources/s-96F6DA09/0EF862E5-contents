@@ -8,9 +8,9 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Sociólogo, estudiante de doctorado. Universidad Católica de Chile. 
+subtitle: Sociólogo, estudiante de doctorado @ Universidad Católica de Chile. 
 text_align_left: false
-title: Roberto Cantillan Carrasco
+title: Roberto Cantillan C.
 type: home
 ---
 
