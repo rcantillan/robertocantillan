@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Gracias por visitar mi sitio personal. Este es un repositorio dedicado a la compilación de mi trabajo científico-académico y profesional. Además, espero compartir reflexiones teóricas y metodológicas que acompañan mi proceso formativo. 
+description: Gracias por visitar mi sitio personal. Este es un repositorio dedicado a la compilación de mi trabajo científico-académico y profesional. Además, espero compartir reflexiones teóricas y metodológicas que acompañan mi proceso como investiagdor.
 image_left: true
 images:
 - img/revoir.jpg
