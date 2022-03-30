@@ -3,7 +3,7 @@
     "path": "~/Documentos/robertocantillan/content/_index.md",
     "project_path": "content/_index.md",
     "type": "markdown",
-    "hash": "3248293966",
+    "hash": "3371104856",
     "contents": "",
     "dirty": false,
     "created": 1648598674805.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,96",
+        "cursorPosition": "12,24",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648599495,
+    "lastKnownWriteTime": 1648599578,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648599495463,
+    "last_content_update": 1648599578562,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Sociólogo, estudiante de doctorado @ Universidad Católica de Chile. 
 text_align_left: false
-title: Roberto Cantillan C.
+title: Roberto Cantillan
 type: home
 ---
 

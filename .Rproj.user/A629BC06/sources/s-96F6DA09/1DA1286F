@@ -3,7 +3,7 @@
     "path": "~/Documentos/robertocantillan/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "756566442",
+    "hash": "2630311451",
     "contents": "",
     "dirty": false,
     "created": 1648595009129.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,9",
-        "scrollLine": "0"
+        "cursorPosition": "42,41",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648597630,
+    "lastKnownWriteTime": 1648599563,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648597630248,
+    "last_content_update": 1648599563608,
     "read_only": false,
     "read_only_alternatives": []
 }
