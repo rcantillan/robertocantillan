@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "RedesLab"
   orgLocal = "Santiago, Chile."
   description = "Blog y repositorio de trabajo académico"
-  favicon = "/img/favicon.ico"
-  logo = "/img/logo1.png"
+  favicon = "/img/logo2.png"
+  logo = "/img/logo2.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
