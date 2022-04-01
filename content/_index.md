@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Gracias por visitar mi sitio personal. Por ahora, funciona como un repositorio dedicado a la compilación de mi trabajo científico-académico y profesional, pero también espero compartir reflexiones teóricas y metodológicas derivadas de análisis empíricos. 
+description: Gracias por visitar mi sitio personal. Por ahora, funciona como un repositorio de mi trabajo científico-académico y profesional, pero también espero compartir reflexiones teóricas y metodológicas emergentes de algunos análisis empíricos. 
 image_left: true
 images:
 - img/revoir.jpg
