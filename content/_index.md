@@ -8,7 +8,7 @@ images:
 - img/pyramid.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Sociólogo, estudiante de doctorado en Sociología @ Pontificia Universidad Católica de Chile (pUC). 
+subtitle: Sociólogo, estudiante de doctorado en Sociología en Pontificia Universidad Católica de Chile (pUC). 
 text_align_left: false
 
 title: Roberto Cantillan
