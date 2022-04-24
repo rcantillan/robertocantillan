@@ -9,8 +9,7 @@ images:
 - img/pyramid.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Sociólogo, estudiante de doctorado en Sociología, Pontificia Universidad Católica de Chile (PUC). 
-Investigador asistente Proyecto FONDECYT 1220560. 
+subtitle: Sociólogo, estudiante de doctorado en Sociología, Pontificia Universidad Católica de Chile (PUC). Investigador asistente Proyecto FONDECYT 1220560. 
 text_align_left: false
 
 title: Roberto Cantillan
