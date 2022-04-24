@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /Un poco más sobre mí...
 action_type: text
-description: Muchas gracias por visitar mi web personal. Mi investigcación doctoral utiliza una perspectiva estructural y de redes para estudiar la configuración de las desigualdades socio-políticas en Chile durante los útlimos diez años. En particular, me inetersa analizar los sesgos que establecen  el despliegue conjunto de la *homofilia* y de la *consolidación* en la formación de pautas de interacción y de difusión de recursos entre grupos sociales. Para esto uso los datos del Estudio Longitudinal Social de Chile (ELSOC), en específico, los instrumentos que miden redes personales y comportamiento voluntario-asociativo. Estoy especialmente interesado en los modelos estadísticos para redes egocentradas, y en el análisis multinivel y causal con datos de opinión pública.
+description: Muchas gracias por visitar mi web personal. Mi investigcación doctoral utiliza una perspectiva estructural y de redes para estudiar la configuración de las desigualdades socio-políticas en Chile durante los útlimos diez años. En particular, me interesa analizar el despliegue conjunto de la *homofilia* y de la *consolidación* y su relación con los sesgos que se establecen en la formación de pautas de interacción y de difusión de recursos entre grupos sociales. Para esto uso los datos del Estudio Longitudinal Social de Chile (ELSOC), en específico, los instrumentos que miden redes personales y comportamiento voluntario-asociativo. Estoy especialmente interesado en los modelos estadísticos para redes egocentradas, y en el análisis multinivel y causal con datos de opinión pública.
 
 image_left: false
 images:
