@@ -6,7 +6,7 @@ description: Muchas gracias por visitar mi web personal. Mi investigación docto
 
 image_left: false
 images:
-- img/pyramid.jpg
+- img/originaltheoryor00wrig_0137.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Sociólogo, estudiante de doctorado en Sociología, Pontificia Universidad Católica de Chile (PUC). Investigador asistente Proyecto FONDECYT 1220560. 
